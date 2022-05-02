@@ -1,7 +1,8 @@
 # Luke's build of dwm
 
 ## FAQ
-
+My additions
+Different Color. That's it the rest is the same
 > What are the bindings?
 
 This is suckless, mmmbud, the source code is the documentation! Check out [config.h](config.h).
